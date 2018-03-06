@@ -25,3 +25,4 @@ vignettes/*.pdf
 .Rproj.user
 .DS_Store
 master-the-tidyverse-instructors.Rproj
+NEXT_STEPS.Rmd
